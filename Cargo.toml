@@ -1,0 +1,6 @@
+[package]
+name = "mtcrypt"
+version = "0.1.0"
+authors = ["mikhail"]
+
+[dependencies]
