@@ -1,4 +1,3 @@
 [[package]]
-name = "mtcrypt"
+name = "cryptmount"
 version = "0.1.0"
-
